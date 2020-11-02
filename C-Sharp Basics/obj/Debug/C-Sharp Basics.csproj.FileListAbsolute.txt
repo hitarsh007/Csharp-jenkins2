@@ -1,0 +1,7 @@
+C:\Users\prakash\Desktop\LTI Training\GET 873\Prjsecondaaplication\C-Sharp Basics\bin\Debug\C-Sharp Basics.exe.config
+C:\Users\prakash\Desktop\LTI Training\GET 873\Prjsecondaaplication\C-Sharp Basics\bin\Debug\C-Sharp Basics.exe
+C:\Users\prakash\Desktop\LTI Training\GET 873\Prjsecondaaplication\C-Sharp Basics\bin\Debug\C-Sharp Basics.pdb
+C:\Users\prakash\Desktop\LTI Training\GET 873\Prjsecondaaplication\C-Sharp Basics\obj\Debug\C-Sharp Basics.csprojAssemblyReference.cache
+C:\Users\prakash\Desktop\LTI Training\GET 873\Prjsecondaaplication\C-Sharp Basics\obj\Debug\C-Sharp Basics.csproj.CoreCompileInputs.cache
+C:\Users\prakash\Desktop\LTI Training\GET 873\Prjsecondaaplication\C-Sharp Basics\obj\Debug\C-Sharp Basics.exe
+C:\Users\prakash\Desktop\LTI Training\GET 873\Prjsecondaaplication\C-Sharp Basics\obj\Debug\C-Sharp Basics.pdb
