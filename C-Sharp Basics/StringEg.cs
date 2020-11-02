@@ -12,6 +12,7 @@ namespace C_Sharp_Basics
             Console.WriteLine("Converting to Uppercase:{0}", firstname.ToUpper());
             Console.WriteLine("Length of string:{0}", firstname.Length);
             Console.WriteLine("Contains:{0}", firstname.Contains("shar"));
+            Console.WriteLine("made changes");
             Console.Read();
 
 
